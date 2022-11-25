@@ -7,9 +7,13 @@ Hello!
 Here are some ideas to get you started:
 
  - 👋 Hi, this is @LIMON-714
+ 
  -🔭 I belive in free education.
+ 
  -🌱 I’m currently learning FullStack Web development
+ 
  -👯 I’m open for freelance projects
+ 
  -📫 like to design and fashion ...
 
 <!---
