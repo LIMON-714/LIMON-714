@@ -1,75 +1,85 @@
-<!-- ====================================================== -->
+<div align="center">
 
-<!--                    PROFILE HEADER                      -->
+# MD LIMON RAHMAN
 
-<!-- ====================================================== -->
+### SOFTWARE ENGINEER · AI/ML · DEEP LEARNING · PYTHON · DJANGO
 
-<h1 align="center">MD LIMON RAHMAN</h1>
-
-<p align="center">
-  <strong>Software Engineer</strong> &nbsp;·&nbsp;
-  <strong>AI / ML</strong> &nbsp;·&nbsp;
-  <strong>Deep Learning</strong> &nbsp;·&nbsp;
-  <strong>Python & Django</strong>
+<p>
+  <em>Building scalable software and intelligent solutions for real-world problems.</em>
 </p>
 
-<p align="center">
-  <em>Engineering intelligent software for real-world impact.</em>
-</p>
+<br>
 
-<p align="center">
-  <a href="https://github.com/LIMON-714">
-    <img src="https://img.shields.io/badge/GitHub-LIMON--714-181717?style=flat-square&logo=github" />
-  </a>
-  <a href="https://bd.linkedin.com/in/mdlimonrahman">
-    <img src="https://img.shields.io/badge/LinkedIn-MD%20Limon%20Rahman-0A66C2?style=flat-square&logo=linkedin" />
-  </a>
-</p>
+<a href="https://github.com/LIMON-714">
+  <img src="https://img.shields.io/badge/GitHub-LIMON--714-161B22?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://bd.linkedin.com/in/mdlimonrahman">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
-## 👨‍💻 About
+## `01` — PROFILE
 
-I’m a **Software Engineer** focused on building intelligent, scalable, and practical software systems.
+I’m a **Software Engineer** focused on building **scalable software, intelligent systems, and practical technology solutions**.
 
-My technical journey sits at the intersection of:
+My work sits at the intersection of:
 
-**Software Engineering × Artificial Intelligence × Data × Product**
+<div align="center">
 
-I work primarily with **Python and Django**, while exploring **Machine Learning, Deep Learning, Computer Vision, backend architecture, and data-driven applications**.
+**SOFTWARE ENGINEERING**
+`Python` · `Django` · `Backend` · `APIs` · `Architecture`
 
-I enjoy taking ideas from **concept to architecture to working product**.
+⬇
+
+**ARTIFICIAL INTELLIGENCE**
+`Machine Learning` · `Deep Learning` · `Computer Vision`
+
+⬇
+
+**TECHNOLOGY & PRODUCTS**
+`Data` · `Automation` · `Digital Solutions` · `Product Thinking`
+
+</div>
+
+I enjoy transforming ideas into **well-engineered, maintainable, and meaningful software products** while continuously expanding my technical depth.
 
 ---
 
-## ⚡ Core Areas
+## `02` — ENGINEERING FOCUS
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🧩 Software Engineering
+### ⚙️ SOFTWARE ENGINEERING
 
-* Python & Django
-* Backend Development
-* REST APIs
-* Full-Stack Development
+* Python Development
+* Django & Backend Systems
+* REST API Development
+* Full-Stack Web Applications
 * Database Design
 * Software Architecture
 * Clean & Maintainable Code
+* Scalable Application Design
 
 </td>
-<td width="50%">
 
-### 🧠 Artificial Intelligence
+<td width="50%" valign="top">
+
+### 🧠 ARTIFICIAL INTELLIGENCE
 
 * Machine Learning
 * Deep Learning
 * Computer Vision
-* AI Applications
+* AI-powered Applications
 * Data Processing
 * Intelligent Systems
 * Model Integration
+* AI-driven Solutions
 
 </td>
 </tr>
@@ -77,108 +87,164 @@ I enjoy taking ideas from **concept to architecture to working product**.
 
 ---
 
-## 🛠️ Technology
+## `03` — TECHNOLOGY STACK
 
-<p align="center">
+### Programming & Web
 
-<img src="https://skillicons.dev/icons?i=python,django,js,html,css,mysql,postgresql,tensorflow,pytorch,opencv,git,github,docker,linux" />
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css" />
+</p>
 
+### Backend & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=django,mysql,postgresql" />
+</p>
+
+### AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+</p>
+
+### Development & Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
 </p>
 
 ---
 
-## 🔬 What I'm Exploring
+## `04` — WHAT I BUILD
+
+I use GitHub as a space to **build, experiment, learn, and turn ideas into working systems**.
+
+My projects explore different areas of:
 
 ```text
 Artificial Intelligence
-        │
-        ├── Machine Learning
-        ├── Deep Learning
-        └── Computer Vision
-                │
-                ▼
-        Software Engineering
-                │
-        ├── Python
-        ├── Django
-        ├── Backend Systems
-        └── Scalable Architecture
-                │
-                ▼
-          Technology Products
+Machine Learning
+Deep Learning
+Computer Vision
+        +
+Python
+Django
+Backend Engineering
+Web Applications
+Data & Automation
+        ↓
+Practical Technology Solutions
 ```
 
----
+I don't believe in being limited to a single framework or technology.
 
-## 🚀 Building
-
-I use GitHub as an engineering workspace to **build, experiment, research, and evolve ideas**.
-
-My projects cover different areas of:
-
-`AI` · `ML` · `Deep Learning` · `Computer Vision`
-`Python` · `Django` · `Backend` · `Web` · `Data`
-
-I’m not focused on building around one technology.
-
-**I’m focused on solving problems with the right technology.**
+> **The problem comes first.
+> The technology follows.**
 
 ---
 
-## 💼 Technology & Entrepreneurship
+## `05` — TECHNOLOGY × PRODUCT
 
-I’m interested in the broader potential of technology — from engineering and AI to **products, IT solutions, and technology-driven businesses**.
+My interests extend beyond writing code.
 
-I’m also exploring **InnoClave IT Solution**, with an interest in developing software, digital, and AI-powered solutions.
+I’m interested in understanding how **software, AI, product thinking, and business** can work together to create useful and sustainable technology.
 
-**Engineering → Product → Impact**
+I’m also exploring **InnoClave IT Solution** around software development, IT solutions, digital products, and AI-driven technologies.
 
----
+<div align="center">
 
-## 🎯 Current Focus
+### ENGINEERING → PRODUCT → IMPACT
 
-<p align="center">
-
-`Python`   `Django`   `AI`   `Machine Learning`
-
-`Deep Learning`   `Computer Vision`   `Backend`
-
-`Software Architecture`   `Data`   `Technology Products`
-
-</p>
+</div>
 
 ---
 
-## 🧠 Engineering Philosophy
+## `06` — CURRENT FOCUS
 
-> **Understand deeply. Build simply. Scale intelligently.**
+<div align="center">
 
-I believe great software is built through a combination of:
+|  SOFTWARE |      AI / ML     |      PRODUCT     |
+| :-------: | :--------------: | :--------------: |
+|   Python  | Machine Learning |       SaaS       |
+|   Django  |   Deep Learning  |   IT Solutions   |
+| REST APIs |  Computer Vision | Digital Products |
+|  Backend  |  AI Applications |    Technology    |
 
-**Strong fundamentals · thoughtful architecture · continuous learning · real-world problem solving**
+</div>
 
 ---
 
-## 🌐 Let's Connect
+## `07` — ENGINEERING PRINCIPLES
 
-<p align="center">
+```text
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│   UNDERSTAND  →  DESIGN  →  BUILD  →  IMPROVE     │
+│                                                     │
+│   • Strong fundamentals                             │
+│   • Simple and thoughtful architecture              │
+│   • Clean and maintainable code                     │
+│   • Scalability in mind                             │
+│   • Continuous learning                             │
+│   • Real-world problem solving                      │
+│                                                     │
+└─────────────────────────────────────────────────────┘
+```
+
+> **Understand deeply. Build intelligently. Scale responsibly.**
+
+---
+
+## `08` — GITHUB ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=LIMON-714&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LIMON-714&hide_border=true&theme=transparent" height="165" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LIMON-714&hide_border=true&area=true&custom_title=Contribution%20Activity" width="95%" />
+
+</div>
+
+---
+
+## `09` — CONNECT
+
+<div align="center">
 
 <a href="https://github.com/LIMON-714">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
+ 
 
 <a href="https://bd.linkedin.com/in/mdlimonrahman">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-</p>
+</div>
+
+<br>
+
+<div align="center">
+
+**Open to meaningful collaboration, technology projects, and new ideas.**
+
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
 
-### Build with purpose. Learn without limits.
+### BUILD · LEARN · INNOVATE
 
-**— MD LIMON RAHMAN**
+<sub>© MD LIMON RAHMAN</sub>
 
-</p>
+</div>
