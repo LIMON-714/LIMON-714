@@ -201,17 +201,22 @@ I’m also exploring **InnoClave IT Solution** around software development, IT s
 
 ### ⚡ Engineering Activity
 
+<p>
+  <em>Building, learning, experimenting, and continuously evolving.</em>
+</p>
+
 </div>
 
 <table align="center">
 <tr>
+
 <td align="center" width="25%">
 
 ### 📦
 
-**Repositories**
+**Projects**
 
-**63+**
+Software · AI
 
 </td>
 
@@ -221,7 +226,7 @@ I’m also exploring **InnoClave IT Solution** around software development, IT s
 
 **Open Source**
 
-**Contributions**
+Collaboration
 
 </td>
 
@@ -229,9 +234,9 @@ I’m also exploring **InnoClave IT Solution** around software development, IT s
 
 ### 🧠
 
-**Primary Focus**
+**Expertise**
 
-**AI · Backend**
+AI · Backend
 
 </td>
 
@@ -239,11 +244,12 @@ I’m also exploring **InnoClave IT Solution** around software development, IT s
 
 ### 🚀
 
-**Currently**
+**Focus**
 
-**Building**
+Build · Innovate
 
 </td>
+
 </tr>
 </table>
 
@@ -251,7 +257,7 @@ I’m also exploring **InnoClave IT Solution** around software development, IT s
 
 <div align="center">
 
-**Current Engineering Direction**
+### Current Engineering Direction
 
 `Python` → `Django` → `Backend` → `AI/ML` → `Deep Learning`
 
@@ -261,9 +267,10 @@ I’m also exploring **InnoClave IT Solution** around software development, IT s
 
 <div align="center">
 
-> **Building consistently. Learning continuously. Improving every day.**
+> **Building consistently. Learning continuously. Improving intelligently.**
 
 </div>
+
 
 ## — CONNECT
 
