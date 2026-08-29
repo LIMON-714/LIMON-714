@@ -22,7 +22,7 @@
 
 ---
 
-## `01` — PROFILE
+## — PROFILE
 
 I’m a **Software Engineer** focused on building **scalable software, intelligent systems, and practical technology solutions**.
 
@@ -49,7 +49,7 @@ I enjoy transforming ideas into **well-engineered, maintainable, and meaningful 
 
 ---
 
-## `02` — ENGINEERING FOCUS
+## — ENGINEERING FOCUS
 
 <table>
 <tr>
@@ -87,7 +87,7 @@ I enjoy transforming ideas into **well-engineered, maintainable, and meaningful 
 
 ---
 
-## `03` — TECHNOLOGY STACK
+## — TECHNOLOGY STACK
 
 ### Programming & Web
 
@@ -115,7 +115,7 @@ I enjoy transforming ideas into **well-engineered, maintainable, and meaningful 
 
 ---
 
-## `04` — WHAT I BUILD
+## — WHAT I BUILD
 
 I use GitHub as a space to **build, experiment, learn, and turn ideas into working systems**.
 
@@ -143,7 +143,7 @@ I don't believe in being limited to a single framework or technology.
 
 ---
 
-## `05` — TECHNOLOGY × PRODUCT
+## — TECHNOLOGY × PRODUCT
 
 My interests extend beyond writing code.
 
@@ -159,7 +159,7 @@ I’m also exploring **InnoClave IT Solution** around software development, IT s
 
 ---
 
-## `06` — CURRENT FOCUS
+## — CURRENT FOCUS
 
 <div align="center">
 
@@ -174,7 +174,7 @@ I’m also exploring **InnoClave IT Solution** around software development, IT s
 
 ---
 
-## `07` — ENGINEERING PRINCIPLES
+## — ENGINEERING PRINCIPLES
 
 ```text
 ┌─────────────────────────────────────────────────────┐
@@ -195,7 +195,7 @@ I’m also exploring **InnoClave IT Solution** around software development, IT s
 
 ---
 
-## `08` — GITHUB ACTIVITY
+## — GITHUB ACTIVITY
 
 <div align="center">
 
@@ -213,9 +213,7 @@ I’m also exploring **InnoClave IT Solution** around software development, IT s
 
 </div>
 
----
-
-## `09` — CONNECT
+## — CONNECT
 
 <div align="center">
 
