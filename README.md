@@ -197,9 +197,73 @@ I’m also exploring **InnoClave IT Solution** around software development, IT s
 
 ## — GITHUB ACTIVITY
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LIMON-714&show_icons=true&hide_border=true&theme=transparent)
+<div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=LIMON-714&hide_border=true&theme=transparent)
+### ⚡ Engineering Activity
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+
+### 📦
+
+**Repositories**
+
+**63+**
+
+</td>
+
+<td align="center" width="25%">
+
+### ⭐
+
+**Open Source**
+
+**Contributions**
+
+</td>
+
+<td align="center" width="25%">
+
+### 🧠
+
+**Primary Focus**
+
+**AI · Backend**
+
+</td>
+
+<td align="center" width="25%">
+
+### 🚀
+
+**Currently**
+
+**Building**
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+**Current Engineering Direction**
+
+`Python` → `Django` → `Backend` → `AI/ML` → `Deep Learning`
+
+</div>
+
+<br>
+
+<div align="center">
+
+> **Building consistently. Learning continuously. Improving every day.**
+
+</div>
 
 ## — CONNECT
 
