@@ -197,21 +197,9 @@ I’m also exploring **InnoClave IT Solution** around software development, IT s
 
 ## — GITHUB ACTIVITY
 
-<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LIMON-714&show_icons=true&hide_border=true&theme=transparent)
 
-<img src="https://github-readme-stats.vercel.app/api?username=LIMON-714&show_icons=true&hide_border=true&theme=transparent" height="165">
-
-<img src="https://streak-stats.demolab.com/?user=LIMON-714&hide_border=true&theme=transparent" height="165">
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LIMON-714&hide_border=true&area=true&custom_title=Contribution%20Activity" width="95%">
-
-</div>
+![GitHub Streak](https://streak-stats.demolab.com/?user=LIMON-714&hide_border=true&theme=transparent)
 
 ## — CONNECT
 
