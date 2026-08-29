@@ -199,9 +199,9 @@ I’m also exploring **InnoClave IT Solution** around software development, IT s
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=LIMON-714&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=LIMON-714&show_icons=true&hide_border=true&theme=transparent" height="165">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LIMON-714&hide_border=true&theme=transparent" height="165" />
+<img src="https://streak-stats.demolab.com/?user=LIMON-714&hide_border=true&theme=transparent" height="165">
 
 </div>
 
@@ -209,7 +209,7 @@ I’m also exploring **InnoClave IT Solution** around software development, IT s
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LIMON-714&hide_border=true&area=true&custom_title=Contribution%20Activity" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LIMON-714&hide_border=true&area=true&custom_title=Contribution%20Activity" width="95%">
 
 </div>
 
